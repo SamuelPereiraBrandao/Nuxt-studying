@@ -1,14 +1,14 @@
 <template>
     <div>
-        Página Inicial
-    </div>
+    <Header />
+    <div>Página Inicial</div>
+</div>
 </template>
 
 <script>
 export default {
-    name:'VideosComponente',
-    setup () {
-        
+    name:'HomePagePrincipal',
+    data () {
 
         return {}
     }

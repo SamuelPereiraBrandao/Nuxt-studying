@@ -1,13 +1,14 @@
 <template>
     <div>
-        Página de videos
+        Página de lista.
     </div>
 </template>
 
 <script>
 export default {
-    name:'VideosHomePage',
+    name:'ListaPage',
     data () {
+        
         return {}
     }
 }

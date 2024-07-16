@@ -1,12 +1,12 @@
 <template>
     <div>
-        Página de videos
+        Página de videos favoritos
     </div>
 </template>
 
 <script>
 export default {
-    name:'VideosHomePage',
+    name:'FavoritosPage',
     data () {
         return {}
     }
